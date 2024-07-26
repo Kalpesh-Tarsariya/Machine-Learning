@@ -1,2 +1,2 @@
 # Machine-Learning
-Practical Example
+Practical Examples
